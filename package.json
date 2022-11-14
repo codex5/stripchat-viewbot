@@ -1,0 +1,17 @@
+{
+  "name": "stripchat-viewbot",
+  "version": "1.0.0",
+  "description": "Stripchat viewbot",
+  "main": "app.js",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "needle": "^3.1.0",
+    "proxy-agent": "^5.0.0",
+    "random-useragent": "^0.5.0",
+    "inquirer": "^8.0.0"
+  }
+}
